@@ -1,16 +1,16 @@
 body {
   background-color: #bab2fe;
-  font-family: "Manrope", sans-serif;
+  font-family: "Bebas Neue", sans-serif;
 }
 
 h1 {
   text-align: center;
-  font-size: 50px;
+  font-size: 60px;
 }
 
 h2 {
   margin: 0 0 5px;
-  font-size: 44px;
+  font-size: 60px;
 }
 
 select {
@@ -18,8 +18,8 @@ select {
   width: 100%;
   padding: 10px;
   border-radius: 4px;
-  font-size: 18px;
-  font-family: "Manrope", sans-serif;
+  font-size: 24px;
+  font-family: "Bebas Neue", sans-serif;
 }
 
 .container {
@@ -29,7 +29,7 @@ select {
   padding: 30px;
   border: 5px solid black;
   border-radius: 15px;
-  font-family: "Manrope", sans-serif;
+  font-family: "Bebas Neue", sans-serif;
 }
 
 .city {
@@ -45,10 +45,10 @@ select {
 }
 
 .date {
-  opacity: 0.7;
+  font-size: 36px;
 }
 .time {
-  font-size: 48px;
+  font-size: 60px;
   font-weight: bold;
 }
 
@@ -56,6 +56,7 @@ select {
   font-size: 24px;
   vertical-align: middle;
   line-height: 36px;
+  font-weight: lighter;
 }
 
 footer {
